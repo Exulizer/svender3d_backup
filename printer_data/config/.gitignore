@@ -1,0 +1,6 @@
+*.log
+*.bak
+*.gcode
+.theme/
+.mainsail/
+printer-*.cfg
