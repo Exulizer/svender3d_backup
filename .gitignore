@@ -212,15 +212,10 @@ printer-[0-9]*_[0-9]*.cfg
 *.csv
 *.zip
 ShakeTune_results
-*.bak
 *.swp
-*.bkp
 *.tmp
-*.csv
 printer-[0-9]*_[0-9]*.cfg
-*.zip
 *.bak
-ShakeTune_results
 *.bkp
 *.csv
 *.zip
